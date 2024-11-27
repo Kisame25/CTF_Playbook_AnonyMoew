@@ -1,5 +1,23 @@
 Cryptography
 -----------------
+### list of strange cryptography algorithms
+
+- https://www.dcode.fr/symbols-ciphers
+- http://www.quadibloc.com/crypto/intro.htm
+
+- http://rumkin.com/tools/cipher/ - All in one tool
+
+- http://www.unit-conversion.info/texttools/morse-code/ - Morse code decoder
+
+- https://cryptii.com/pipes/ascii85-encoding - ASCII85 decoder
+
+- https://github.com/Ciphey/Ciphey -Ciphey
+
+#### Modern cryptography
+
+- https://gchq.github.io/CyberChef/ - All in one tool
+
+- https://crackstation.net/ - Crack hash
 
 * Cryptii
 
